@@ -24,7 +24,7 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 ## Installation
 # clone the repository
 ```sh
-
+ git clone https://github.com/hamdiya-abu/weather-app.git
 ```
 
 ## Navigate to the directory 
