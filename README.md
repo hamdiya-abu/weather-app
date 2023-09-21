@@ -6,10 +6,10 @@ Welcome to WeatherApp! A sleek and intuitive application that provides you with 
 
 This template should help get you started developing with Vue 3 in Vite.
 
-### Features
+## Features
 
-# Search Weather by City: Enter the name of any city to get the current weather conditions.
-# 7-Day Forecast: View detailed forecasts for the next week, so you're always prepared.
+### Search Weather by City: Enter the name of any city to get the current weather conditions.
+### 7-Day Forecast: View detailed forecasts for the next week, so you're always prepared.
 
 
 
@@ -22,7 +22,7 @@ This template should help get you started developing with Vue 3 in Vite.
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Installation
-# clone the repository
+### clone the repository
 ```sh
  git clone https://github.com/hamdiya-abu/weather-app.git
 ```
@@ -50,5 +50,5 @@ npm run dev
 npm run build
 ```
 ## Built With
-# vue js
-# Tailwind
+### vue js
+### Tailwind
